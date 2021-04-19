@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LeoLeeeeeee
+- 👀 I’m interested in Go
+- 🌱 I’m currently majoring in Economics, mathematics, and computer science in NYU.
+- 📫 How to reach me: yl6248@nyu.edu
